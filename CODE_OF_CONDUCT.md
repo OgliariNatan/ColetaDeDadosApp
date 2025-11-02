@@ -1,4 +1,4 @@
-Código de Conduta – Casa-Inteligente
+Código de Conduta – OgliariNatan
 1. Introdução
 Este documento foi criado para registrar as diretrizes de comportamento, uso e desenvolvimento das aplicações que compõem o ambiente "Casa-Inteligente". Mesmo sendo uma comunidade em seu início, com apenas um desenvolvedor ativo, a intenção é fomentar um ambiente colaborativo, seguro e inovador. Ele também serve para documentar a autoria, os direitos autorais, as licenças e o histórico das contribuições, contribuindo para a transparência e para o fortalecimento da comunidade.
 
